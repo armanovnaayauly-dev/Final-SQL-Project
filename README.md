@@ -28,7 +28,7 @@ This project demonstrates SQL skills for data analysis and business reporting. I
 - SQL (PostgreSQL / MySQL)
 
 ## 📁 Files
-- `/queries.sql` – main SQL scripts
+- `/Final SQL.sql` – main SQL scripts
 
 ## 📈 Outcome
 This project demonstrates the ability to transform raw data into meaningful business insights using SQL.
